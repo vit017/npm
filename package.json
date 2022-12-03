@@ -1,0 +1,19 @@
+{
+  "name": "pr1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vit017/npm.git"
+  },
+  "author": "vit017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vit017/npm/issues"
+  },
+  "homepage": "https://github.com/vit017/npm#readme"
+}
